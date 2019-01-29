@@ -1,0 +1,21 @@
+W                                                                                                                                  W        W              W         W                               W
+W  B      B B      B BBBBBBB  BBBBBBB BBBBBBB                                                                                      W      BBW              B         B                               W
+W  BB     B B      B B      B B       B      B                                                                                     W      B W              B         B                               W
+W  B B    B B      B B      B B       B      B                                                                                     W     WWWW       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     W
+W  B  B   B B      B B      B BBBBBBB BBBBBBB                                                                                      W        W       W      B                                   W     W
+W  B   B  B B      B BBBBBBB  B       BBB                                                                                          W        W       W      B                                   W     W
+W  B    B B B      B B        B       B  BB                                                                                        W        W       W      WWWWWWWWWWWWWWWWWWWWWWWWBBWWWWWWWWWWW     W
+W  B     BB B      B B        B       B    BB                                                                                      W        W       W      WCCCCCCCCCWCCC                      W     W
+W  B      B  BBBBBB  B        BBBBBBB B      BB                                                                                    W        W       W      W         WCCC                      W     W
+W                                                                                                                                  W        W       W      W         WWWWWWWWWWWWWWWWWWWWWWWWBBW     W
+W          B       BBBBBBB        BBB      BBBBBB                                                                                  W        W       W      W         W                         W     W
+W         B B      B      B        B      B      B                                                                                 W        W       W      W         W                         W     W
+W         B B      B      B        B      B      B                                                                                 W        W       W      W         WBBBBBBBBBWWWWWWWWWWWWWWWWW     W
+W        B   B     BBBBBBB         B      B      B                                                                                 W        W       W      W                   B               W     W
+W        BBBBB     BBB             B      B      B                                                                B                W    BBBBB                                  B               W     W
+W       B     B    B  BB           B      B      B                                                                                 B         BBB                               B               WS    W
+W       B     B    B    BB         B      B      B                                                                                 B     BBBBBBB            BBB                B               WWWWWWW
+W      B       B   B      BB      BBB      BBBBBB                                                                                 WW   BBB        BBB  BBBBBBB BBB    BBB      B                     G
+W                                                                                                                                WWW  BBSBB      BBSBB        BBSBB  BBSBB     B                     G
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+                                                                                                                                                                                                       
